@@ -1,0 +1,7 @@
+{
+  "name": "Chase The Rabbit",
+  "description": "A high-end somato-emotional regulation app for diet journeys, featuring mood tracking, somatic symptom identification, and AI-powered reflections.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
